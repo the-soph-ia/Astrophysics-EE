@@ -4,7 +4,7 @@ My Research Question:
 
 This repository contains:
 >6 csv files containing data tables
->1 "script" Python file that processes the data
+1 "script" Python file that processes the data
 >uhhhh lots of brain cell remnants :)
     
 Comments from data.csv:
