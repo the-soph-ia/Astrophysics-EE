@@ -3,9 +3,9 @@ My Research Question:
 > To what degree do the mass and density of a planet affect the eccentricity of its orbit?
 
 This repository contains:
->6 csv files containing data tables
-1 "script" Python file that processes the data
->uhhhh lots of brain cell remnants :)
+- 6 csv files containing data tables
+- 1 "script" Python file that processes the data
+- uhhhh lots of brain cell remnants :)
     
 Comments from data.csv:
 ```# This file was produced by the NASA Exoplanet Archive  http://exoplanetarchive.ipac.caltech.edu
