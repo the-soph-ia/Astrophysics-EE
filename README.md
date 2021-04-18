@@ -1,9 +1,10 @@
-## Welcome to my EE repository
+## Welcome to my EE repository!
 My Research Question:
-> To what degree do the mass and density of a planet affect the eccentricity of its orbit?
+> What correlations exist between the mass and density of a planet and the eccentricity of its orbit?
 
 This repository contains:
-- 4 csv files containing data tables
+- 4 csv files containing data tables:
+- - "data.csv" is the main file; everything else is broken down from that
 - 1 "script" Python file that processes the data
 - the ✨magic✨ of learning
     
