@@ -1,12 +1,12 @@
 ## Welcome to my EE repository!
 My Research Question:
-> What correlations exist between the mass and density of a planet and the eccentricity of its orbit?
+> What correlations exist between the mass of a planet and the eccentricity of its orbit?
 
 This repository contains:
-- 4 csv files containing data tables:
+- 7 csv files containing data tables:
 - - "data.csv" is the main file; everything else is broken down from that
+- - only "rad_vel.csv" and "transit.csv" were used to produce graphs; the rest were for potential graphs that didn't end up fitting with my thesis
 - 1 "script" Python file that processes the data
-- the ✨magic✨ of learning
     
 Comments from data.csv (extracted from the NASA Exoplanet Archive):
 ```
