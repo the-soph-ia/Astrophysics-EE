@@ -1,0 +1,9 @@
+planet_name,mass_j,density,eccentricity
+Earth,0.0031,5514,0.017
+Mercury,0.00017,5427,0.205
+Venus,0.0026,5423,0.007
+Mars,0.00034,3933,0.094
+Jupiter,1,1326,0.049
+Saturn,0.299,687,0.057
+Uranus,0.046,12710.046
+Neptune,0.054,1638,0.011
